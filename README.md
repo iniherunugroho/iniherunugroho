@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Heru Nugroho
 
-<!--
-**iniherunugroho/iniherunugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- **Education:** IT Student
+- **Programming Language:** Python
+- **Certification:** Python Course Certified
+- **Hobby:** Learning how to code and exploring programming projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+https://github.com/iniherunugroho/office365-rest-python-client
+
+## 📚 Interests
+
+- Software development
+- Coding for fun and learning new technologies
+- Building small Python applications
+
+## 📫 Contact
+
+- [GitHub Profile](https://github.com/iniherunugroho)
+
+---
+
+Feel free to explore my repositories and connect!
