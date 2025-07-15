@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-https://github.com/iniherunugroho/office365-rest-python-client
+- [Office 365 Rest Python Client](https://github.com/iniherunugroho/office365-rest-python-client)
 
 ## 📚 Interests
 
